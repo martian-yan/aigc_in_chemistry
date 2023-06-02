@@ -1,0 +1,9 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "AIGC_in_Chemistry_lab_by_AI.md"
+        }
+    ]
+}
