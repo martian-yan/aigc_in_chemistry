@@ -16,6 +16,10 @@
 
 ![](https://raw.githubusercontent.com/martian-yan/aigc_in_chemistry/master/WechatIMG106.png)
 
+### Literature review
+
+![](https://raw.githubusercontent.com/martian-yan/aigc_in_chemistry/master/WechatIMG109.png)
+
 ## Other GPT-based tools
 
 - **New Bing**: Help searching and summarising the internet
